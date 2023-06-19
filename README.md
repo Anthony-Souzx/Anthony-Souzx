@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anthony or Tony
+- 👋 Hi, I’m Anthony but you can call me Tony
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning HTML5, CSS and Javascript
 - 📚 I’m currently in the 3rd semester in Systems Analysis and Development
