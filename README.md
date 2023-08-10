@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anthony but you can call me Tony
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning HTML5, CSS and Javascript
-- 📚 I’m currently in the 3rd semester in Systems Analysis and Development
+- 🌱 I’m currently learning UX UI Design, Figma, Design System
+- 📚 I’m currently in the 4th semester in Systems Analysis and Development
 - 📫 How to reach me: anthony.s.profissional@gmail.com
 - 🤓 Im a nerd guy, i like marvel, star wars and a lot movies and series and of course games
 
